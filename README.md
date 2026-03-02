@@ -17,7 +17,7 @@ Once you have Qt Design Studio installed, open the `Intro-3D-Qt-Design-Studio` f
 
 To run the application, simply build and run the project in Qt Design Studio. The application will launch and you will see the Space Shuttle Demo.
 
-## Resouces
+## Resources
 If you need additional help, the following resources may be helpful:
 - Qt Documentation: https://doc.qt.io
 - Qt Forum: https://forum.qt.io
